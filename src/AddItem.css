@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: row;
+  background-color: antiquewhite;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(15, 13, 13);
+  text-align: left;
+}
+form input {
+    margin-left: 30px;
+}
+form button {
+    margin-left: 20px;
+}
